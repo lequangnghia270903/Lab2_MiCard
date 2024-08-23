@@ -19,9 +19,10 @@ The methodology used in the lab about programming with Flutter involves a combin
 4.	Results
 •	Present the results of the lab.
 •	Include screenshots of the app.
+
  ![image](https://github.com/user-attachments/assets/265a159c-123c-4900-981d-725076050dd9)
 
-5.	Discussion
+6.	Discussion
 •	Discuss the results obtained.
 Understanding of Flutter Environment Setup:
 Project Creation and Structure:
@@ -30,7 +31,7 @@ Working with Pubspec File:
 Integration of Icons:
 Quality of Lab Report Documentation:
 Feedback and Improvement Opportunities:
-6.	Conclusion
+7.	Conclusion
 •	Summarize the main findings of the lab.
 Strong understanding and utilization of the Scaffold widget for app layout.
 Effective management of dependencies and assets using the Pubspec file.
